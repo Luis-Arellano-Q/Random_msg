@@ -14,7 +14,15 @@
   "author": "Luis Arellano <arellano_18angel@hotmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal":true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luis-Arellano-Q/Random_msg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Luis-Arellano-Q/Random_msg/issues"
+  },
+  "homepage": "https://github.com/Luis-Arellano-Q/Random_msg#readme"
 }
